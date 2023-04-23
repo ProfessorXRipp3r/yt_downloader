@@ -5,6 +5,6 @@ pkg install python<br>
 2. Give storage permission<br>
 termux-setup-storage<br>
 3. Now run the setup file<br>
-python setup.py
+python setup.pyc
 4. Then run main script<br>
-python yt.py
+python yt.pyc
